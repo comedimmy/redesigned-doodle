@@ -21,6 +21,3 @@
 
   ## 若i>10之後聽出迴圈並印出結果
     print("10!=",amount,"\n1+2!+3!+.....10!=",count)
-  ![image](https://github.com/comedimmy/effective-enigma/assets/113405460/810edf2f-90f4-43f9-a08e-ffd86716e982)
-
-  ![image](https://github.com/comedimmy/effective-enigma/assets/113405460/08df4157-384a-42e1-aa79-b109ea898f93)
